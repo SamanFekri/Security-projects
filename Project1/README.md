@@ -25,6 +25,6 @@ encrypt orginal.txt file with openssl des algorithm to enc.txt, then decrypt enc
 ### Run application
 	
 ```bash
-        gcc main.c -o main -lssl -lcrypto 
-        ./main
+    gcc main.c -o main -lssl -lcrypto 
+    ./main
 ```
