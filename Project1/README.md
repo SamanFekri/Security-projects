@@ -6,7 +6,7 @@ encrypt orginal.txt file with openssl des algorithm to enc.txt, then decrypt enc
 - List Item Download the tarball: openssl-1.0.0d.tar.gz
 - Unpack the package	
 ```bash
-	ginzip openssl-1.0.2j.tar.gz	
+	gunzip openssl-1.0.2j.tar.gz	
 ```
 - Extractin files from the archive
 ```bash
